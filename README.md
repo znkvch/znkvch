@@ -7,4 +7,3 @@
 
 ### Connect with me:
 [Linkedin](https://www.linkedin.com/in/anton-zinkevich-8a47ba28a/) and [Telegram](https://t.me/znkvch_a)
-
