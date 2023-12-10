@@ -6,5 +6,4 @@
 - 💞️ I’m looking to collaborate on large and small companies
 
 ### Connect with me:
-(https://t.me/znkvch_a)[telegram](https://github.com/znkvch/znkvch/assets/138566114/d41fc05e-b312-4fae-b9de-fa89e48a3d5e)
-[Linkedin](https://www.linkedin.com/in/anton-zinkevich-8a47ba28a)
+[<img align="left" alt="https://www.linkedin.com/in/anton-zinkevich-8a47ba28a" width="22px" src="attachment:90b5e4ec-7c6f-4609-bbc6-7a2bd7f44d9a.png" />]
