@@ -1,7 +1,5 @@
 <div align="center">
- 
 # Hi there, I'm Anton Zinkevich 👋
-
 ## I'm starting my journey in Data Science! 🚀
 👀 I’m interested in Machine Learning
 🌱 I’m currently learning Data Science
