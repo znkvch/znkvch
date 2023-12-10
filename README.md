@@ -10,6 +10,6 @@
 [<img align="center" width="75px" src="https://github.com/znkvch/znkvch/assets/138566114/eab0bc5e-2a1e-4a3b-a3eb-c5a1a0720cc9" />](https://www.linkedin.com/in/anton-zinkevich-8a47ba28a/)
 [<img align="center" width="40px" src="https://github.com/znkvch/znkvch/assets/138566114/0794c43e-6e85-4dcb-a8e4-76a3d74ccfd9" />](https://www.instagram.com/znkvch/)
 
-  <img src="https://media.giphy.com/media/3yRHVLXGeodopGpq7l/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3yRHVLXGeodopGpq7l/giphy.gif" width="400"/>
 </div>
 
