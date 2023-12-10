@@ -2,4 +2,4 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on large and small companies
-- 📫 How to reach me [...](https://t.me/znkvch_a), https://www.linkedin.com/in/anton-zinkevich-8a47ba28a/
+- 📫 How to reach me [...](https://t.me/znkvch_a)
